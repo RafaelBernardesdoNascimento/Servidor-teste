@@ -1,0 +1,27 @@
+{
+  "name": "servidor-teste",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto pra apresentar alguns dos meus conhecimentos desenvolvidos durante meus estudos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelBernardesdoNascimento/Servidor-teste.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Rafael Bernardes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelBernardesdoNascimento/Servidor-teste/issues"
+  },
+  "homepage": "https://github.com/RafaelBernardesdoNascimento/Servidor-teste#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
